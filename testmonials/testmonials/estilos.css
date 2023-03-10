@@ -1,0 +1,13 @@
+.back{
+    background-color: hsl(263, 55%, 52%);
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position-x: 450px;
+}
+
+.fondo{
+    background-color: hsl(217, 23%, 49%);
+}
+.colo{
+    background-color: hsl(219, 29%, 14%);
+}
